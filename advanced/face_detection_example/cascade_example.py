@@ -1,3 +1,5 @@
+"""THIS EXAMPLE IS FROM OPENCV DOCUMENTATION"""
+
 from __future__ import print_function
 import cv2 as cv
 import argparse
